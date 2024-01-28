@@ -1,6 +1,7 @@
-# Songbird
+# songbird
 
-Unlock a world of music with a single word! Our IrvineHacks project Songbird generates a song based on your input, offering a fun and personalized music discovery experience. 
+Unlock a world of music with a single word! Our IrvineHacks 2024 project Songbird generates a song based on your input, offering a fun and personalized music discovery experience. 
+
 We were first inspired with the well known concepts of fortune cookies, where a fortune is given for each cookie opened. We then decided on a common interest, music, and asked ourselves what troubles we have with music. Deciding that we all struggle with finding music because of the uncertainty of how to look for random songs, we decided to create a website that generates a song based on a single word that the user gives.
 
 Our website allows users to input a word in the given search bar, and get a randomized song based on that word in return. With the randomized song, users get the following information; song artist, song title, and album cover. This can give users a fun experience in trying to find new random songs.
